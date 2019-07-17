@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is my first file.
 Modified
+=======
+This is my first file.
+>>>>>>> firstbranch
